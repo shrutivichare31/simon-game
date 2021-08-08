@@ -52,4 +52,21 @@ body {
   background-color: grey;
   
 }
+@media (max-width:1028px){
+  
+  .btn {
+    margin: 5px;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 5%;
+  }
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+}
 
